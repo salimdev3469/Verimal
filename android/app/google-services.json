@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "488453500002",
+    "project_id": "verimal",
+    "storage_bucket": "verimal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488453500002:android:e7d72a389a3de3cab0353b",
+        "android_client_info": {
+          "package_name": "com.example.verimal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488453500002-omaldv3l99lpcns74g8mv7tj5l8lafu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.verimal",
+            "certificate_hash": "40b805783c3ddba50de0ff7d5ad415dcb301f73f"
+          }
+        },
+        {
+          "client_id": "488453500002-gad3qms614b0eqqkjr05gcf5p9ktlneq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZUKLEPo_MfyqpK27OgFNrwcDr2ER7gzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488453500002-gad3qms614b0eqqkjr05gcf5p9ktlneq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
